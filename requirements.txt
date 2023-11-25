@@ -1,0 +1,8 @@
+jupyterlab
+pandas
+matplotlib
+opencv-python
+GitPython
+torch 
+torchvision 
+torchaudio
